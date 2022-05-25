@@ -353,7 +353,7 @@ footer {
     }
     
     .photo img:hover {
-        width: 40rem;
+        width: 80%;
         height: auto;
     }
     
